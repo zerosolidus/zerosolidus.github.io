@@ -1,0 +1,54 @@
+
+body {
+	    background-color: rgb(42,43,46);
+		color: rgb(189,189,192);
+		font-size: 14pt:
+
+}
+
+a:link {
+	    text-decoration: none;
+
+}
+
+a:visited {
+	    text-decoration: none;
+
+}
+
+a:hover {
+	    text-decoration: none;
+
+}
+
+a:link {
+	    color: rgb(68,93,128);
+
+}
+
+/* visited link */
+a:visited {
+	    color: rgb(14,14,19);
+
+}
+
+li {
+	color: black;
+}
+
+.links {
+	float: left;
+	width: 300px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+
+}
+
+.container {
+    float: left ;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
